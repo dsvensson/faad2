@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: input_aac.cpp,v 1.1 2003/12/13 22:27:58 menno Exp $
+** $Id: input_aac.cpp,v 1.2 2003/12/14 13:50:50 menno Exp $
 **/
 
 #include "foobar2000/SDK/foobar2000.h"
