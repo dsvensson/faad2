@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: sbr_fbt.c,v 1.4 2003/10/09 20:04:25 menno Exp $
+** $Id: sbr_fbt.c,v 1.5 2003/10/20 13:57:32 menno Exp $
 **/
 
 /* Calculate frequency band tables */
