@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: kbd_win.h,v 1.9 2003/11/02 20:24:04 menno Exp $
+** $Id: kbd_win.h,v 1.10 2003/11/04 21:43:30 menno Exp $
 **/
 
 #ifndef __KBD_WIN_H__
