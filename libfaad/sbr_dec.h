@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: sbr_dec.h,v 1.32 2004/05/17 10:18:03 menno Exp $
+** $Id: sbr_dec.h,v 1.33 2004/06/30 12:45:57 menno Exp $
 **/
 
 #ifndef __SBR_DEC_H__
@@ -58,7 +58,6 @@ typedef struct {
     real_t *v;
     int16_t v_index;
     uint8_t channels;
-    complex_t *pre_twiddle;
 } qmfs_info;
 
 typedef struct
