@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: sbr_qmf_c.h,v 1.12 2004/07/31 15:48:57 menno Exp $
+** $Id: sbr_qmf_c.h,v 1.13 2004/09/04 14:56:28 menno Exp $
 **/
 
 #ifndef __SBR_QMF_C_H__

@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: drm_dec.c,v 1.4 2004/08/04 19:13:43 menno Exp $
+** $Id: drm_dec.c,v 1.5 2004/09/04 14:56:28 menno Exp $
 **/
 
 #include <stdlib.h>
