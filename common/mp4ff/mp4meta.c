@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: mp4meta.c,v 1.12 2004/01/10 18:55:24 menno Exp $
+** $Id: mp4meta.c,v 1.13 2004/01/11 15:52:18 menno Exp $
 **/
 
 #ifdef USE_TAGGING
