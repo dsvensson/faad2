@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: audio.c,v 1.23 2004/03/04 19:06:00 menno Exp $
+** $Id: audio.c,v 1.24 2004/03/10 19:45:40 menno Exp $
 **/
 
 #ifdef _WIN32
