@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: mp4util.c,v 1.9 2003/12/14 16:47:08 menno Exp $
+** $Id: mp4util.c,v 1.10 2003/12/15 17:48:33 menno Exp $
 **/
 
 #include "mp4ffint.h"
