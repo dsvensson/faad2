@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: decoder.h,v 1.41 2004/04/03 10:49:14 menno Exp $
+** $Id: decoder.h,v 1.42 2004/05/17 10:18:02 menno Exp $
 **/
 
 #ifndef __DECODER_H__
@@ -105,6 +105,11 @@ void* NEAACDECAPI NeAACDecDecode(NeAACDecHandle hDecoder,
                                  NeAACDecFrameInfo *hInfo,
                                  uint8_t *buffer,
                                  uint32_t buffer_size);
+
+void* NEAACDECAPI NeAACDecDecode2(NeAACDecHandle hDecoder,
+                                  NeAACDecFrameInfo *hInfo,
+                                  uint8_t *buffer, uint32_t buffer_size,
+                                  void **sample_buffer, uint32_t sample_buffer_size);
 
 #ifdef _WIN32
   #pragma pack(pop)
