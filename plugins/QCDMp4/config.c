@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: config.c,v 1.2 2003/11/16 19:52:41 menno Exp $
+** $Id: config.c,v 1.3 2003/12/06 04:24:17 rjamorim Exp $
 **/
 
 #define WIN32_LEAN_AND_MEAN
