@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: sine_win.h,v 1.11 2004/01/05 14:05:12 menno Exp $
+** $Id: sine_win.h,v 1.12 2004/02/26 09:29:28 menno Exp $
 **/
 
 #ifndef __SINE_WIN_H__

@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: analysis.h,v 1.11 2004/01/05 14:05:11 menno Exp $
+** $Id: analysis.h,v 1.12 2004/02/26 09:29:26 menno Exp $
 **/
 
 #ifndef __ANALYSIS_H__

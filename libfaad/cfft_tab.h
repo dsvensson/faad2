@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: cfft_tab.h,v 1.12 2004/01/05 14:05:11 menno Exp $
+** $Id: cfft_tab.h,v 1.13 2004/02/26 09:29:26 menno Exp $
 **/
 
 #ifndef __CFFT_TAB_H__
