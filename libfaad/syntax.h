@@ -16,7 +16,7 @@
 ** along with this program; if not, write to the Free Software 
 ** Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
 **
-** $Id: syntax.h,v 1.29 2003/07/07 21:11:18 menno Exp $
+** $Id: syntax.h,v 1.30 2003/07/08 13:45:45 menno Exp $
 **/
 
 #ifndef __SYNTAX_H__
