@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: sbr_tf_grid.h,v 1.6 2003/11/04 21:43:30 menno Exp $
+** $Id: sbr_tf_grid.h,v 1.7 2003/11/12 20:47:59 menno Exp $
 **/
 
 #ifndef __SBR_TF_GRID_H__
