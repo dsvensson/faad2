@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: sbr_hfgen.c,v 1.19 2004/06/30 12:45:57 menno Exp $
+** $Id: sbr_hfgen.c,v 1.20 2004/07/31 15:48:57 menno Exp $
 **/
 
 /* High Frequency generation */
