@@ -22,7 +22,7 @@
 ** Commercial non-GPL licensing of this software is possible.
 ** For more info contact Ahead Software through Mpeg4AAClicense@nero.com.
 **
-** $Id: decoder.h,v 1.37 2004/03/02 20:09:58 menno Exp $
+** $Id: decoder.h,v 1.38 2004/03/04 19:06:01 menno Exp $
 **/
 
 #ifndef __DECODER_H__
@@ -69,7 +69,7 @@ extern "C" {
 #define LFE_CHANNEL          (9)
 #define UNKNOWN_CHANNEL      (0)
 
-int8_t* NEAACDECAPI NeAACDecGetErrorMessage(uint8_t errcode);
+char* NEAACDECAPI NeAACDecGetErrorMessage(uint8_t errcode);
 
 uint32_t NEAACDECAPI NeAACDecGetCapabilities(void);
 
