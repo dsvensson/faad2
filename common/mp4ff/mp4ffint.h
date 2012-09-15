@@ -94,6 +94,8 @@ extern "C" {
 #define ATOM_EPISODE        171
 #define ATOM_PODCAST        172
 
+#define ATOM_ALAC 192
+
 #define ATOM_UNKNOWN 255
 #define ATOM_FREE ATOM_UNKNOWN
 #define ATOM_SKIP ATOM_UNKNOWN
