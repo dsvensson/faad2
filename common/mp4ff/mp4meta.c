@@ -165,15 +165,6 @@ const char * mp4ff_meta_index_to_genre(uint32_t idx)
 	}
 }
 
-
-static int32_t TrackToString(char** str, const uint16_t track, const uint16_t totalTracks)
-{
-	char temp[32];
-    sprintf(temp, "%.5u of %.5u", track, totalTracks);
-	*str = strdup(temp);
-    return 0;
-}
-
 static int32_t mp4ff_set_metadata_name(mp4ff_t *f, const uint8_t atom_type, char **name)
 {
     static char *tag_names[] = {
