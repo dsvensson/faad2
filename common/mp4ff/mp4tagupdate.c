@@ -20,21 +20,6 @@ static uint32_t fix_byte_order_32(uint32_t src)
     return (uint32_t)result;
 }
 
-static uint16_t fix_byte_order_16(uint16_t src)
-{
-    uint16_t result;
-    uint16_t a, b;
-    int8_t data[2];
-    
-    memcpy(data,&src,sizeof(src));
-    a = (uint8_t)data[0];
-    b = (uint8_t)data[1];
-
-    result = (a<<8) | b;
-    return (uint16_t)result;
-}
-
-
 typedef struct
 {
 	void * data;
