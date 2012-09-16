@@ -356,8 +356,13 @@ static int32_t mp4ff_meta_find_by_name(const mp4ff_t *f, const char *item, char 
     {
         if (!stricmp(f->tags.tags[i].item, item))
         {
-			*value = strdup(f->tags.tags[i].value);
-            return 1;
+	        uint32_t len = f->tags.tags[i].len;
+
+             if (len > 0) {
+                 *value = malloc(len+1);
+                 memcpy(*value, f->tags.tags[i].value, len+1);
+                 return len;
+             }
         }
     }
 
